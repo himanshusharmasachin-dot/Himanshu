@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Game Artist Career Path",
+  "description": "A 3-year roadmap and AI-powered mentor to guide aspiring game artists on their journey to becoming industry professionals. Features a gamified progression system, portfolio reviews, mock interviews, and regular industry tips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
